@@ -1,0 +1,12 @@
+C:\Users\dhuo1\Documents\FixedIdleTimeoutProject\ProjectFiles\NetSolution\bin\FixedIdleTimeoutProject.deps.json
+C:\Users\dhuo1\Documents\FixedIdleTimeoutProject\ProjectFiles\NetSolution\bin\FixedIdleTimeoutProject.dll
+C:\Users\dhuo1\Documents\FixedIdleTimeoutProject\ProjectFiles\NetSolution\bin\FixedIdleTimeoutProject.pdb
+C:\Users\dhuo1\Documents\FixedIdleTimeoutProject\ProjectFiles\NetSolution\obj\Debug\FixedIdleTimeoutProject.csproj.AssemblyReference.cache
+C:\Users\dhuo1\Documents\FixedIdleTimeoutProject\ProjectFiles\NetSolution\obj\Debug\FixedIdleTimeoutProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhuo1\Documents\FixedIdleTimeoutProject\ProjectFiles\NetSolution\obj\Debug\FixedIdleTimeoutProject.AssemblyInfoInputs.cache
+C:\Users\dhuo1\Documents\FixedIdleTimeoutProject\ProjectFiles\NetSolution\obj\Debug\FixedIdleTimeoutProject.AssemblyInfo.cs
+C:\Users\dhuo1\Documents\FixedIdleTimeoutProject\ProjectFiles\NetSolution\obj\Debug\FixedIdleTimeoutProject.csproj.CoreCompileInputs.cache
+C:\Users\dhuo1\Documents\FixedIdleTimeoutProject\ProjectFiles\NetSolution\obj\Debug\FixedIdleTimeoutProject.dll
+C:\Users\dhuo1\Documents\FixedIdleTimeoutProject\ProjectFiles\NetSolution\obj\Debug\refint\FixedIdleTimeoutProject.dll
+C:\Users\dhuo1\Documents\FixedIdleTimeoutProject\ProjectFiles\NetSolution\obj\Debug\FixedIdleTimeoutProject.pdb
+C:\Users\dhuo1\Documents\FixedIdleTimeoutProject\ProjectFiles\NetSolution\obj\Debug\ref\FixedIdleTimeoutProject.dll
